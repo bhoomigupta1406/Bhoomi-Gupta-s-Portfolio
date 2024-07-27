@@ -682,7 +682,7 @@ header .navbar ul li a:hover{
 /* work section starts */
 .work{
   /* background: #010124; */
-  background: linear-gradient(to bottom, #90324e, #944141d9);
+  background: linear-gradient(to bottom, #fff, #fff);
 }
 .work h2{
   color: #fff;
